@@ -1,0 +1,33 @@
+# Smart Fan Control System (Tinkercad + Arduino)
+
+### 🔧 Description
+This project simulates a fan control system using a TMP36 temperature sensor and Arduino UNO. The fan speed varies based on temperature input. Simulated using Tinkercad.
+
+### 🧰 Tools Used
+- Arduino UNO
+- TMP36 sensor
+- NPN Transistor (2N2222)
+- Tinkercad Circuits
+
+### 📷 Preview
+![Circuit Diagram](circuit.png)
+
+### 🔗 Tinkercad Link
+https://tinkercad.com/xyz123
+
+### 🔌 Connections
+- TMP → A0
+- D9 → Motor Control via Transistor
+
+### 🧠 Learnings
+- PWM motor control
+- Sensor interfacing
+- Transistor switching
+
+---
+
+Would you like me to:
+- Create a **template GitHub project folder structure**?
+- Write your `README.md` for your solar tracker?
+
+Say the word and we’ll make your GitHub shine 🌟
